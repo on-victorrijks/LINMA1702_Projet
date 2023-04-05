@@ -5,7 +5,6 @@ import cvxpy as cp
 
 h = highspy.Highs()
 
-
 data = np.load('Temperatures-Montreal.npy')
 print(len(data))
 
