@@ -5,6 +5,7 @@ Isolation du bâtiment
     Après un quart d'heure, la nouvelle température T+ safisfait
 
     (T+ - T) = (1-eta) * (T - Text)
+    T+ = (1-eta) * (T - TEXT) + T
 
     où Text est la température extérieure, et le coefficient eta
     (qui dépend de l'isolation) = 0.99
